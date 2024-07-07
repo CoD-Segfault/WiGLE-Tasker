@@ -1,0 +1,38 @@
+<TaskerData sr="" dvi="1" tv="6.2.22">
+	<Profile sr="prof5" ve="2">
+		<cdate>1656489458084</cdate>
+		<cldm>60</cldm>
+		<clp>true</clp>
+		<edate>1720394536329</edate>
+		<flags>8</flags>
+		<id>5</id>
+		<mid0>6</mid0>
+		<nme>Upload WiGLE On Bluetooth Disconnect</nme>
+		<State sr="con0" ve="2">
+			<code>3</code>
+			<pin>true</pin>
+			<Str sr="arg0" ve="3"/>
+			<Str sr="arg1" ve="3">DE:AD:BE:EF:00:00/DE:AD:BE:EF:00:01</Str>
+		</State>
+	</Profile>
+	<Task sr="task6">
+		<cdate>1656489472837</cdate>
+		<edate>1720388096725</edate>
+		<id>6</id>
+		<nme>Upload Wigle</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>877</code>
+			<Str sr="arg0" ve="3">net.wigle.wigleandroid.UPLOAD</Str>
+			<Int sr="arg1" val="0"/>
+			<Str sr="arg2" ve="3"/>
+			<Str sr="arg3" ve="3"/>
+			<Str sr="arg4" ve="3"/>
+			<Str sr="arg5" ve="3"/>
+			<Str sr="arg6" ve="3"/>
+			<Str sr="arg7" ve="3">net.wigle.wigleandroid</Str>
+			<Str sr="arg8" ve="3"/>
+			<Int sr="arg9" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>

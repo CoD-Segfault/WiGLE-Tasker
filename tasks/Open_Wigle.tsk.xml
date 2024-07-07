@@ -1,0 +1,23 @@
+<TaskerData sr="" dvi="1" tv="6.2.22">
+	<Task sr="task3">
+		<cdate>1656461461946</cdate>
+		<edate>1712153484656</edate>
+		<id>3</id>
+		<nme>Open Wigle</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>net.wigle.wigleandroid.MainActivity</appClass>
+				<appPkg>net.wigle.wigleandroid</appPkg>
+				<label>WiGLE WiFi</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>22</code>
+		</Action>
+	</Task>
+</TaskerData>
